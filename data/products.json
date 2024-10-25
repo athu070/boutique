@@ -1,0 +1,164 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Premium Wireless Headphones",
+        "price": 299.99,
+        "image": "https://blaupunktaudio.in/cdn/shop/files/bh41-bluetooth-wireless-over-ear-headphone-blue-blaupunkt-india-1.png?v=1711006473",
+        "description": "High-end wireless headphones featuring active noise cancellation, 30-hour battery life, and premium sound quality. Includes touch controls and voice assistant integration.",
+        "category": "Electronics",
+        "rating": 4.8,
+        "inStock": true,
+        "specifications": {
+          "brand": "SoundMaster",
+          "connectivity": "Bluetooth 5.0",
+          "batteryLife": "30 hours",
+          "weight": "250g"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Smart Fitness Watch",
+        "price": 199.99,
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MC7K4ref_FV99_VW_34FR+watch-case-46-titanium-gold-cell-s10_VW_34FR+watch-face-46-titanium-gold-s10_VW_34FR?wid=750&hei=712&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1725645630838",
+        "description": "Advanced fitness tracking smartwatch with heart rate monitoring, GPS, and sleep tracking. Water-resistant up to 50m with a bright AMOLED display.",
+        "category": "Wearables",
+        "rating": 4.6,
+        "inStock": true,
+        "specifications": {
+          "brand": "FitTech",
+          "display": "1.4\" AMOLED",
+          "waterResistance": "50m",
+          "batteryLife": "7 days"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Ultra-Slim Laptop",
+        "price": 1299.99,
+        "image": "https://photographylife.com/cdn-cgi/imagedelivery/GrQZt6ZFhE4jsKqjDEtqRA/photographylife.com/2022/06/Apple_MacBook-Pro_14-16-inch_10182021-1.jpg/w=1960,h=1274",
+        "description": "Powerful and portable laptop featuring a 14-inch 4K display, 16GB RAM, and 512GB SSD. Perfect for professionals and creative work.",
+        "category": "Computers",
+        "rating": 4.7,
+        "inStock": true,
+        "specifications": {
+          "brand": "TechPro",
+          "processor": "Intel i7 12th Gen",
+          "ram": "16GB",
+          "storage": "512GB SSD"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Wireless Gaming Mouse",
+        "price": 79.99,
+        "image": "https://resource.logitechg.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/pro-wireless-gaming-mouse/pro-wireless-carbon-gallery-1.png?v=1",
+        "description": "High-precision wireless gaming mouse with 20000 DPI sensor, programmable buttons, and RGB lighting. Includes low-latency wireless technology.",
+        "category": "Gaming",
+        "rating": 4.5,
+        "inStock": true,
+        "specifications": {
+          "brand": "GameMaster",
+          "dpi": "20000",
+          "buttons": "8 programmable",
+          "batteryLife": "40 hours"
+        }
+      },
+      {
+        "id": 5,
+        "name": "4K Webcam",
+        "price": 149.99,
+        "image": "https://ausha.co.in/cdn/shop/files/A_d3731754-f189-42c8-9497-94006a3e8a76.jpg?v=1724910066",
+        "description": "Professional 4K webcam with HDR, auto-focus, and dual microphones. Perfect for streaming, video conferencing, and content creation.",
+        "category": "Electronics",
+        "rating": 4.4,
+        "inStock": false,
+        "specifications": {
+          "brand": "StreamPro",
+          "resolution": "4K UHD",
+          "fps": "60",
+          "fieldOfView": "90°"
+        }
+      },
+      {
+        "id": 6,
+        "name": "Mechanical Keyboard",
+        "price": 129.99,
+        "image": "https://keychron.in/wp-content/uploads/2021/11/Keychron-K8-tenkeyless-wireless-mechanical-keyboard-for-Mac-Windows-iOS-RGB-white-backlight-with-Gateron-switch-blue_1800x1800.jpg",
+        "description": "Premium mechanical keyboard with RGB backlighting, hot-swappable switches, and aluminum frame. Includes palm rest and customizable macros.",
+        "category": "Computing",
+        "rating": 4.9,
+        "inStock": true,
+        "specifications": {
+          "brand": "TypeMaster",
+          "switches": "Cherry MX Blue",
+          "layout": "Full size",
+          "backlight": "RGB"
+        }
+      },
+      {
+        "id": 7,
+        "name": "Portable Power Bank",
+        "price": 49.99,
+        "image": "https://m.media-amazon.com/images/I/61l419tiduL._AC_UF1000,1000_QL80_.jpg",
+        "description": "20000mAh portable power bank with fast charging support, USB-C, and LED display. Charges multiple devices simultaneously.",
+        "category": "Accessories",
+        "rating": 4.3,
+        "inStock": true,
+        "specifications": {
+          "brand": "PowerMax",
+          "capacity": "20000mAh",
+          "ports": "USB-C, 2x USB-A",
+          "fastCharging": "65W"
+        }
+      },
+      {
+        "id": 8,
+        "name": "Wireless Earbuds",
+        "price": 159.99,
+        "image": "https://www.imagineonline.store/cdn/shop/files/AirPods_Pro_2_PDP_Image_Position_1__en-IN.jpg?v=1727267585&width=1445",
+        "description": "True wireless earbuds with active noise cancellation, transparency mode, and wireless charging case. IPX5 water resistance.",
+        "category": "Audio",
+        "rating": 4.6,
+        "inStock": true,
+        "specifications": {
+          "brand": "AudioPro",
+          "batteryLife": "6 hours + 24 hours case",
+          "waterResistance": "IPX5",
+          "connectivity": "Bluetooth 5.2"
+        }
+      },
+      {
+        "id": 9,
+        "name": "Gaming Console",
+        "price": 499.99,
+        "image": "https://blog.playstation.com/tachyon/2024/09/9ae4d532324423584e5151313780c0348918b067.jpg",
+        "description": "Next-gen gaming console with 4K gaming, ray tracing, and fast loading times. Includes wireless controller and 825GB SSD.",
+        "category": "Gaming",
+        "rating": 4.8,
+        "inStock": false,
+        "specifications": {
+          "brand": "GameStation",
+          "storage": "825GB SSD",
+          "resolution": "4K",
+          "hdr": "Yes"
+        }
+      },
+      {
+        "id": 10,
+        "name": "Smart Speaker",
+        "price": 89.99,
+        "image": "https://www.apple.com/newsroom/images/product/homepod/standard/Apple_homepod-mini-white-10132020.jpg.landing-big_2x.jpg",
+        "description": "Smart home speaker with voice assistant, room-filling sound, and multi-room audio support. Features ambient light ring.",
+        "category": "Smart Home",
+        "rating": 4.5,
+        "inStock": true,
+        "specifications": {
+          "brand": "HomeTech",
+          "assistant": "Alexa & Google Assistant",
+          "connectivity": "WiFi, Bluetooth",
+          "speakers": "360° sound"
+        }
+      }
+    ]
+  }
